@@ -9,7 +9,7 @@
 Alzheimer’s disease is a neurodegenerative disorder that affects memory, thinking, and behavior. In this project, we apply deep learning (CNNs, InceptionV3, Xception) for early detection and classification of Alzheimer's disease using MRI scans.
 
 ## 📸 Screenshots
-<img src="https://github.com/dusty-nv/jetson-inference/raw/master/docs/images/deep-vision-header.jpg" width="100%">
+<img src="https://github.com/aymanT122R/Alzheimer_Detection/blob/main/evaluation_model.png" width="100%">
 
 _Example of MRI scans used for classification._
 
